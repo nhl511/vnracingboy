@@ -1,16 +1,22 @@
-### Hi there 👋
+### HI ^^ I'm Long 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="200"/>
+</div>
 
-<!--
-**vnracingboy/vnracingboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm University Student ^^ 💛
+- 🥰 I cannot stop coding because I feel joy in it.
+- 💎 Goals: To be a Great Fullstack Developer.
+- 🤞 My hobbies: studying, racing and traveling.
+
+😺👹👺👽👻🤡👾🙉🤖
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VhRU9RvKZWKujYXhlJ/giphy.gif" width="250"/>
+</div>
+
+
+
+<br/>
+
+
