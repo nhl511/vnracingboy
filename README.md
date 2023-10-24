@@ -4,8 +4,8 @@
 
 <div align="center">
 
-  # Hello my boss 👋
-  ### My job is Frontend Dev
+  # Hi👋 I'm Frontend Dev
+  
 
 </div>
 
