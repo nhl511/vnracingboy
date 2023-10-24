@@ -14,8 +14,11 @@
  </div> 
 
  <div align="left>
-    ### Languages, Library and Framework ❤️ 
+    
+  ### Languages, Librarys and Frameworks
+    
  </div>
+    
  <div align="left>
     <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="bash" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="bash" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="bash" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="bash" width="40" height="40"/> <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="40" height="40"/> 
  </div>
