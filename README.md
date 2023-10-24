@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ### Hello my boss 👋
+  # Hello my boss 👋
   ### My job is Frontend Dev
 
 </div>
