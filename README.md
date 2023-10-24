@@ -9,19 +9,10 @@
 
 </div>
 
-<div align="center">
-  <div style="display: inline-block; text-align: left; width: 48%;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZ2t6NDZ2dWtkM25hZTQ1ODdramMzZGo3ZDl4cmZ6NGZyd2F3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eIx7liaVwx3hqcuE31/giphy.gif" width="250" height="250"/>
-  </div>
-  <div style="display: inline-block; text-align: left; width: 48%;">
-    ### Languages, Libraries, and Frameworks
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="bash" width="40" height="40"/> 
-    <img src="https://cdn-icons-png.flaticon.com/512/888/888897.png" alt="bash" width="40" height="40"/> 
-    <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="bash" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" width="40" height="40"/> 
-    <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind CSS" width="40" height="40"/> 
-  </div>
-</div>
+| ![Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZ2t6NDZ2dWtkM25hZTQ1ODdramMzZGo3ZDl4cmZ6NGZyd2F3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eIx7liaVwx3hqcuE31/giphy.gif) | ### Languages, Libraries, and Frameworks
+| --- | ---
+|   | ![Image](https://cdn-icons-png.flaticon.com/512/888/888859.png) ![Image](https://cdn-icons-png.flaticon.com/512/888/888897.png) ![Image](https://cdn-icons-png.flaticon.com/512/1199/1199124.png) ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png) ![Image](https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png)
+
 
 
 
