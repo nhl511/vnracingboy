@@ -10,9 +10,16 @@
 </div>
 
 
-| ![Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZ2t6NDZ2dWtkM25hZTQ1ODdramMzZGo3ZDl4cmZ6NGZyd2F3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eIx7liaVwx3hqcuE31/giphy.gif) | ### Languages, Libraries, and Frameworks
-| --- | ---
-|   | ![Image](https://cdn-icons-png.flaticon.com/512/888/888859.png){:height="40px" width="40px"}  [Image](https://cdn-icons-png.flaticon.com/512/888/888897.png){:height="40px" width="40px"} ![Image](https://cdn-icons-png.flaticon.com/512/1199/1199124.png){:height="40px" width="40px"}  ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png){:height="40px" width="40px"}  ![Image](https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png){:height="40px" width="40px"} 
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuZ2t6NDZ2dWtkM25hZTQ1ODdramMzZGo3ZDl4cmZ6NGZyd2F3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eIx7liaVwx3hqcuE31/giphy.gif" width="250" height="250" style="margin: 5px;" />
+  ### Languages, Libraries, and Frameworks
+  ![Image](https://cdn-icons-png.flaticon.com/512/888/888859.png){:height="40px" width="40px" style="margin: 5px;"}
+  ![Image](https://cdn-icons-png.flaticon.com/512/888/888897.png){:height="40px" width="40px" style="margin: 5px;"}
+  ![Image](https://cdn-icons-png.flaticon.com/512/1199/1199124.png){:height="40px" width="40px" style="margin: 5px;"}
+  ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png){:height="40px" width="40px" style="margin: 5px;"}
+  ![Image](https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png){:height="40px" width="40px" style="margin: 5px;"}
+</div>
+
 
 
 
